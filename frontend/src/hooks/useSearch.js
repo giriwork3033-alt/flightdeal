@@ -56,8 +56,8 @@ export function useSearch() {
     setHasSearched(true);
 
     try {
-      const API = process.env.REACT_APP_API_URL || '';
-    const response = await axios.post(`${API}/api/search`, {
+      const API = process.env.REACT_APP_API_URL || 'https://flightdeal-wko3.onrender.com';
+      const response = await axios.post(`${API}/api/search`, {
         origin,
         destination,
         date,
