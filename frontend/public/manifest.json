@@ -1,0 +1,8 @@
+{
+  "short_name": "FlightDeal",
+  "name": "FlightDeal - Post-discount flight comparator",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1d4ed8",
+  "background_color": "#ffffff"
+}

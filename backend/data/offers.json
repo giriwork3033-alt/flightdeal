@@ -1,0 +1,40 @@
+[
+  { "platform": "MMT", "offer_type": "card", "card_name": "HDFC Regalia", "discount_type": "percent", "discount_value": 10, "max_cap": 1500, "min_booking_value": 5000, "stackable": false, "valid_until": "2026-12-31" },
+  { "platform": "MMT", "offer_type": "card", "card_name": "HDFC Millennia", "discount_type": "percent", "discount_value": 8, "max_cap": 1000, "min_booking_value": 4000, "stackable": false, "valid_until": "2026-12-31" },
+  { "platform": "MMT", "offer_type": "card", "card_name": "ICICI Coral", "discount_type": "flat", "discount_value": 600, "min_booking_value": 4000, "stackable": false, "valid_until": "2026-12-31" },
+  { "platform": "MMT", "offer_type": "card", "card_name": "ICICI Sapphiro", "discount_type": "percent", "discount_value": 12, "max_cap": 1800, "min_booking_value": 5000, "stackable": false, "valid_until": "2026-12-31" },
+  { "platform": "MMT", "offer_type": "card", "card_name": "Axis Ace", "discount_type": "percent", "discount_value": 5, "max_cap": 800, "min_booking_value": 3000, "stackable": true, "valid_until": "2026-12-31" },
+  { "platform": "MMT", "offer_type": "card", "card_name": "Kotak 811", "discount_type": "flat", "discount_value": 400, "min_booking_value": 3500, "stackable": true, "valid_until": "2026-12-31" },
+  { "platform": "MMT", "offer_type": "coupon", "coupon_code": "MMTSALE", "discount_type": "flat", "discount_value": 400, "min_booking_value": 4000, "stackable": false, "valid_until": "2026-12-31" },
+  { "platform": "MMT", "offer_type": "coupon", "coupon_code": "MMTNEW", "discount_type": "flat", "discount_value": 250, "min_booking_value": 3000, "stackable": true, "valid_until": "2026-12-31" },
+
+  { "platform": "Ixigo", "offer_type": "card", "card_name": "HDFC Regalia", "discount_type": "percent", "discount_value": 8, "max_cap": 1200, "min_booking_value": 4000, "stackable": false, "valid_until": "2026-12-31" },
+  { "platform": "Ixigo", "offer_type": "card", "card_name": "HDFC Millennia", "discount_type": "percent", "discount_value": 6, "max_cap": 800, "min_booking_value": 3500, "stackable": true, "valid_until": "2026-12-31" },
+  { "platform": "Ixigo", "offer_type": "card", "card_name": "SBI SimplyCLICK", "discount_type": "flat", "discount_value": 800, "min_booking_value": 5000, "stackable": false, "valid_until": "2026-12-31" },
+  { "platform": "Ixigo", "offer_type": "card", "card_name": "Axis Flipkart", "discount_type": "percent", "discount_value": 5, "max_cap": 700, "min_booking_value": 3000, "stackable": true, "valid_until": "2026-12-31" },
+  { "platform": "Ixigo", "offer_type": "card", "card_name": "Kotak 811", "discount_type": "flat", "discount_value": 350, "min_booking_value": 3000, "stackable": true, "valid_until": "2026-12-31" },
+  { "platform": "Ixigo", "offer_type": "coupon", "coupon_code": "IXIMON", "discount_type": "flat", "discount_value": 300, "min_booking_value": 3500, "stackable": true, "valid_until": "2026-12-31" },
+  { "platform": "Ixigo", "offer_type": "coupon", "coupon_code": "IXINEW", "discount_type": "flat", "discount_value": 200, "min_booking_value": 2500, "stackable": true, "valid_until": "2026-12-31" },
+
+  { "platform": "Cleartrip", "offer_type": "card", "card_name": "SBI SimplyCLICK", "discount_type": "flat", "discount_value": 1200, "min_booking_value": 6000, "stackable": false, "valid_until": "2026-12-31" },
+  { "platform": "Cleartrip", "offer_type": "card", "card_name": "SBI Card Prime", "discount_type": "flat", "discount_value": 1500, "min_booking_value": 6000, "stackable": false, "valid_until": "2026-12-31" },
+  { "platform": "Cleartrip", "offer_type": "card", "card_name": "Axis Ace", "discount_type": "percent", "discount_value": 5, "max_cap": 1000, "min_booking_value": 3000, "stackable": true, "valid_until": "2026-12-31" },
+  { "platform": "Cleartrip", "offer_type": "card", "card_name": "ICICI Coral", "discount_type": "flat", "discount_value": 700, "min_booking_value": 4000, "stackable": false, "valid_until": "2026-12-31" },
+  { "platform": "Cleartrip", "offer_type": "card", "card_name": "Amex Gold", "discount_type": "percent", "discount_value": 10, "max_cap": 1200, "min_booking_value": 5000, "stackable": false, "valid_until": "2026-12-31" },
+  { "platform": "Cleartrip", "offer_type": "coupon", "coupon_code": "CTFLY", "discount_type": "flat", "discount_value": 350, "min_booking_value": 4000, "stackable": true, "valid_until": "2026-12-31" },
+
+  { "platform": "Goibibo", "offer_type": "card", "card_name": "HDFC Regalia", "discount_type": "percent", "discount_value": 12, "max_cap": 1800, "min_booking_value": 5000, "stackable": false, "valid_until": "2026-12-31" },
+  { "platform": "Goibibo", "offer_type": "card", "card_name": "HDFC Millennia", "discount_type": "percent", "discount_value": 10, "max_cap": 1200, "min_booking_value": 4500, "stackable": false, "valid_until": "2026-12-31" },
+  { "platform": "Goibibo", "offer_type": "card", "card_name": "ICICI Sapphiro", "discount_type": "percent", "discount_value": 10, "max_cap": 1500, "min_booking_value": 5000, "stackable": false, "valid_until": "2026-12-31" },
+  { "platform": "Goibibo", "offer_type": "card", "card_name": "Axis Flipkart", "discount_type": "flat", "discount_value": 600, "min_booking_value": 3500, "stackable": true, "valid_until": "2026-12-31" },
+  { "platform": "Goibibo", "offer_type": "coupon", "coupon_code": "GOFIRST", "discount_type": "flat", "discount_value": 500, "min_booking_value": 4500, "stackable": false, "valid_until": "2026-12-31" },
+  { "platform": "Goibibo", "offer_type": "coupon", "coupon_code": "GONEW", "discount_type": "flat", "discount_value": 300, "min_booking_value": 3000, "stackable": true, "valid_until": "2026-12-31" },
+
+  { "platform": "EaseMyTrip", "offer_type": "card", "card_name": "Axis Ace", "discount_type": "flat", "discount_value": 700, "min_booking_value": 4000, "stackable": true, "valid_until": "2026-12-31" },
+  { "platform": "EaseMyTrip", "offer_type": "card", "card_name": "Axis Flipkart", "discount_type": "flat", "discount_value": 600, "min_booking_value": 3500, "stackable": true, "valid_until": "2026-12-31" },
+  { "platform": "EaseMyTrip", "offer_type": "card", "card_name": "SBI Card Prime", "discount_type": "percent", "discount_value": 8, "max_cap": 1000, "min_booking_value": 4000, "stackable": false, "valid_until": "2026-12-31" },
+  { "platform": "EaseMyTrip", "offer_type": "card", "card_name": "Kotak 811", "discount_type": "flat", "discount_value": 400, "min_booking_value": 3000, "stackable": true, "valid_until": "2026-12-31" },
+  { "platform": "EaseMyTrip", "offer_type": "card", "card_name": "ICICI Coral", "discount_type": "flat", "discount_value": 500, "min_booking_value": 3500, "stackable": false, "valid_until": "2026-12-31" },
+  { "platform": "EaseMyTrip", "offer_type": "coupon", "coupon_code": "EMTFLY", "discount_type": "percent", "discount_value": 8, "max_cap": 900, "min_booking_value": 3000, "stackable": true, "valid_until": "2026-12-31" },
+  { "platform": "EaseMyTrip", "offer_type": "coupon", "coupon_code": "EMTNEW", "discount_type": "flat", "discount_value": 250, "min_booking_value": 2500, "stackable": true, "valid_until": "2026-12-31" }
+]
